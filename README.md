@@ -41,6 +41,11 @@ There are three ways to install AutoRecon: pipx, pip, and manually. Before insta
 sudo apt update
 ```
 
+Docker:
+```bash
+sudo docker build -t tib3rius/autorecon .
+```
+
 ### Python 3
 
 AutoRecon requires the usage of Python 3.8+ and pip, which can be installed on Kali Linux using the following commands:
